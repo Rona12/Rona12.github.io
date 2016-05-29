@@ -3,7 +3,8 @@ layout: post
 title: "Fakultas Sain & Tekhnologi"
 author: Rona Rosita
 modified:
-excerpt: "A post to test author overrides using a data file."
+excerpt: "Mahasiswa Program Studi Sistem Informasi
+Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim, Riau."
 tags: []
 ---
 
@@ -16,27 +17,29 @@ Start by modifying or creating a new `authors.yml` file in the `_data` folder an
 {% highlight yaml %}
 # Authors
 
-billy_rick:
-  name: Billy Rick
+Rona Rosita:
+  name: Rona Rosita
   web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
+  email: ronarosita12@gmail.com
+  bio: "Mahasiswa Program Studi Sistem Informasi'13,
+  Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim, Riau."
+  avatar: ronaedit.jpg
   twitter: extravagantman
   google:
-    plus: BillyRick
+    plus: Ronarosita
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+Rona Rosita:
+  name: Rona Rosita
+  email: ronarosita12@gmail.com
+  bio: "Mahasiswa Program Studi Sistem Informasi
+  Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim, Riau"
+  avatar: ronaedit.jpg
+  twitter: ronarosita
   google:
     plus: CorneliusFiddlebone
 {% endhighlight %}
 
-To assign Billy Rick as an author for our post. You'd add the following YAML front matter to a post:
+To assign Rona Rosita as an author for our post. You'd add the following YAML front matter to a post:
 
 {% highlight yaml %}
 author: billy_rick
