@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Author Override"
-author: billy_rick
+title: "Fakultas Sain & Tekhnologi"
+author: Rona Rosita
 modified:
 excerpt: "A post to test author overrides using a data file."
 tags: []
