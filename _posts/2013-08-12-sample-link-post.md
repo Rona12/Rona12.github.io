@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TO.UIN SUSKA RIAU"
+title: "Sejarah Ringkas Universitas"
 excerpt: "Example and code for using link posts."
 tags: [sample post, link post]
 link: http://uin-suska.ac.id/  
