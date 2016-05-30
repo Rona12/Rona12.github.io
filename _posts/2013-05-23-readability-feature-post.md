@@ -43,10 +43,6 @@ Mulai sekarang, saat kita akan merenungkan nilai-nilai untuk kita jalani, ada 2 
 Pastikan nilai utama kita tidak lain adalah ibadah, karena tidak ada tujuan lain dalam hidup kita kecuali ibadah.
 Apa pun nilai yg kita temukan, harus dipastikan itu adalah sesuai atau tidak bertentangan dengan nilai-nilai Islam. Cara mengetahuinya adalah kita memiliki ilmu tentang nilai-nilai Islam yang memadai atau bertanya kepada ulama tentang nilai yang kita anut.
 
-## Forage occaecat cardigan qui
-
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole. 
-
 
 ## INILAH MOTIVASI DALAM HIDUP SEBENARNYA
 
