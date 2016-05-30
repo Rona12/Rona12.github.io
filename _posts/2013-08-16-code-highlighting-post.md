@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fakultas Sains & Tekhnologi
-excerpt: "Uin suska mempunyai beberapa Fakultas salah satunya Fakultas Sains & Tekhnologi."
+excerpt: "Uin Suska has several faculty one of the Faculty of Science and Technology.."
 tags: [sample post, code, highlighting]
 modified: 2014-09-14
 comments: true
