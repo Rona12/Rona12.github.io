@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Fakultas Sain & Tekhnologi"
+title: "Uin Suska Riau"
 author: Rona Rosita
 modified:
-excerpt: "Mahasiswa Program Studi Sistem Informasi
-Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim, Riau."
+excerpt: "colleges in Uin Suska Riau."
 tags: []
 ---
 
