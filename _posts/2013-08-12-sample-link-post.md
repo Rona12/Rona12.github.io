@@ -25,14 +25,6 @@ Pada tahun akademik 2002/2003 program studi umum yang ada pada fakultas diatas d
 
 Dengan demikian, pada tahun akademik 2002/2003, IAIN Susqa sebagai persiapan UIN Suska Riau telah mempunyai 8 fakultas, yaitu: Fakultas Tarbiyah, Fakultas Syari’ah, Fakultas Ushuluddin, Fakultas Dakwah dan Ilmu Komunikasi, Fakultas Sains dan Teknologi, Fakultas Psikologi, Fakultas Ekonomi, dan Fakultas Peternakan.
 
-Peningkatan status IAIN menjadi UIN dimaksudkan untuk menghasilkan sarjana muslim yang mampu menguasai, mengembangkan, dan menerapkan ilmu ke-Islaman, ilmu pengetahuan dan teknologi secara intergral, sekaligus menghilangkan pandangan dikhotomi antara ilmu keislaman dan ilmu umum.
-
-Pengembangan UIN Suska tidak hanya dilakukan pada bidang akademik semata, seperti melalui pembukaan fakultas-fakultas dan program-program studi baru, tapi juga diarahkan pada pengembangan di bidang fisik, sarana, dan prasarana. Dewasa ini UIN Suska telah mempunyai lahan kampus seluas 84,15 Ha yang terdiri atas 3,65 Ha di Jl. K.H. Ahmad Dahlan dan 80,50 Ha di Km. 15 Jl. Soebrantas Simpangbaru Panam Pekanbaru.
-
-Lahan kampus di Km 15 Jl. H.R. Soebrantas tersebut dibebaskan pada tahun 1981/1982 mulanya seluas 60 Ha dan diperluas pada tahun 2003-2006 menjadi 80,50 Ha. Pada tahun 1995/1996 pembangunan fisik di lahan ini telah dimulai dan telah berhasil membangun gedung seluas 5.760 m2 untuk 70 lokal ruang kuliah.
-
-Sesuai dengan Peraturan Menteri Agama RI Nomor 8 Tahun 2005 tentang Organisasi dan Tata Kerja UIN Suska Riau dan Peraturan Menteri Agama RI Nomor 56 Tahun 2006 tentang Perubahan atas PMA RI No. 8 Tahun 2005 tentang Organisasi dan Tata Kerja UIN Suska Riau, maka UIN Suska Riau memiliki 8 fakultas, yaitu: Fakultas Tarbiyah dan Keguruan, Fakultas Syariah dan Ilmu Hukum, Fakultas Ushuluddin, Fakultas Dakwah dan Ilmu Komunikasi, Fakultas Sains dan Teknologi, Fakultas Psikologi, Fakultas Ekonomi dan Ilmu Sosial, dan Fakultas Pertanian dan Peternakan.
-
 > And this is how a quote looks.
 
-Untuk melihat web resmi UIN SUSKA RIAU silahkan Klik [disini](http://uin-suska.ac.id/).
+Untuk lebih detil silahkan Klik [disini](http://uin-suska.ac.id/).
